@@ -11,11 +11,8 @@
 ### 🌟 Acerca de mí
 
 Soy **estudiante de Ingeniería de Sistemas** de la 
-**universidad El Bosque** con pasión por el desarrollo backend, la arquitectura de software y la innovación tecnológica.  
-Me interesa construir soluciones que mezclen **eficiencia, creatividad e inteligencia artificial**, con una mirada orientada a la **seguridad y automatización**.
-
-🧩 Me gusta aprender, experimentar y combinar tecnología con diseño, música y ciencia.  
-💡 Creo firmemente que la ingeniería no solo resuelve problemas… **también crea futuros.**
+**universidad El Bosque** con pasión por el desarrollo backend, ciberseguridad y la inteligencia artificial.  
+Me apasiona diseñar soluciones que integren eficiencia, creatividad e inteligencia artificial, siempre con un enfoque en la seguridad, la automatización y la calidad del software.
 
 ---
 
@@ -23,25 +20,48 @@ Me interesa construir soluciones que mezclen **eficiencia, creatividad e intelig
 
 #### 🧠 Lenguajes y frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,spring,fastapi,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,spring,fastapi,hibernate,maven,kafka,htmx,html,css,js,bootstrap,bots" />
 </p>
 
-#### 🗄️ Bases de datos y entornos
+#### 🗄️ Bases de datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 #### ☁️ DevOps, Testing y Documentación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,sonarcloud,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,postman,docker" />
 </p>
+
+### 🧰 Entornos de desarrollo (IDEs)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,visualstudio,arduino,discord" />
+</p>
+
+> 💻 Trabajo habitualmente con **Visual Studio Code** y **Eclipse**.  
+> También experimento con **Visual Studio** para C# y **Arduino IDE / Thonny** en proyectos IoT.
+
+---
+
+### 🚀 Tecnologías que estoy aprendiendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb,godot,docker,linux,ai,aiscript,tensorflow,flutter,raspberrypi,figma,kali,robloxstudio,unity" />
+</p>
+
+> 🌱 Actualmente explorando **IA Generativa**, **Ciberseguridad**, **Docker**, **Linux**,  
+> y **Godot Engine (C#)** para desarrollo de videojuegos.  
+
+> 🧠 Próximos objetivos: **react**, **microservicios**, **kali linux** y **automatización con IA.**
+
+---
 
 #### 🧩 Metodologías y herramientas
 - ⚡ **Scrum / Ágil**  
 - 🧾 **Swagger**, **Postman**, **Jira**  
 - 🧠 **Lucidchart** para diagramación UML  
-- 💻 **Thonny (IoT, MicroPython)**, **WampServer**, **Cisco Packet Tracer**  
-- 🎮 **Godot Engine (C#)** — aprendiendo desarrollo de videojuegos  
+- 💻 **Thonny (IoT, MicroPython)**, **Cisco Packet Tracer**  
 
 ---
 
@@ -64,12 +84,12 @@ Videojuego **pixel-art 32x32** con estética swing electrónica.
 ### 📊 Estadísticas y actividad
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=No-Johann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No-Johann&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannOrjuela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannOrjuela&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=No-Johann&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JohannOrjuela&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -83,14 +103,6 @@ Videojuego **pixel-art 32x32** con estética swing electrónica.
 
 ---
 
-### 🌱 Actualmente explorando...
-
-- 🤖 Desarrollo con **Inteligencia Artificial Generativa**  
-- 🔐 **Ciberseguridad y hacking ético**  
-- 🧩 Arquitecturas distribuidas y microservicios  
-- 🎮 Creación de videojuegos con **Godot Engine (C#)**  
-
----
 
 ### 🧬 Fun Facts
 
