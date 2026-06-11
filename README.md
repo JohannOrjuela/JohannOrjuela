@@ -18,6 +18,7 @@ analítico, organización y trabajo en equipo,
 caracterizado por ser responsable, constante y
 orientado a la mejora continua.
 
+
 ---
 
 ### Stack Tecnológico
@@ -58,7 +59,7 @@ orientado a la mejora continua.
 
 ---
 
-#### 🧩 Metodologías y herramientas
+####  Metodologías y herramientas
 -  **Scrum / Ágil**  
 -  **Swagger**, **Postman**, **Jira**  
 -  **Lucidchart** para diagramación UML  
@@ -66,7 +67,7 @@ orientado a la mejora continua.
 
 ---
 
-### 🚀 Proyectos destacados
+###  Proyectos destacados
 
 ####  [Explora UAV](https://explorauav.com.co/)
 Página web profesional para empresa de cartografía aérea.  
@@ -77,7 +78,7 @@ Sistema web para la gestión de pedidos, facturación y cálculo de envíos, apl
 
 ---
 
-### 📊 Estadísticas y actividad
+###  Estadísticas y actividad
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannOrjuela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -93,7 +94,7 @@ Sistema web para la gestión de pedidos, facturación y cálculo de envíos, apl
 
 ---
 
-### 📫 Conecta conmigo
+###  Conecta conmigo
 
 📧 **Correo:** [jorjuelah@unbosque.edu.co](mailto:jorjuelah@unbosque.edu.co)  
 💼 **LinkedIn:** [Johann Sebastián Orjuela Heredia](https://www.linkedin.com/in/johann-sebasti%C3%A1n-orjuela-heredia-b0bb5a3b5/)  
