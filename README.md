@@ -1,83 +1,79 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://github.com/No-Johann/No-Johann/blob/main/banner.png" alt="Banner profesional" width="100%">
-</p>
 
-<h1 align="center">✨ ¡Hola, soy Johann Sebastián Orjuela! ✨</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Backend Developer | Arquitectura de Software | IA Generativa y Ciberseguridad 🧠🔒</h3>
+<h1 align="center"> ¡Hola, soy Johann Sebastián Orjuela Heredia! </h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | Backend Developer | Arquitectura de Software | Ciberseguridad </h3>
 
 ---
 
-### 🌟 Acerca de mí
+###  Acerca de mí
 
-Soy **estudiante de Ingeniería de Sistemas** de la 
-**universidad El Bosque** con pasión por el desarrollo backend, ciberseguridad y la inteligencia artificial.  
-Me apasiona diseñar soluciones que integren eficiencia, creatividad e inteligencia artificial, siempre con un enfoque en la seguridad, la automatización y la calidad del software.
+Ingeniero de Sistemas en formación, enfocado
+en el desarrollo de sistemas de información y
+la automatización de procesos, con
+conocimientos en n8n, Python, Java,
+JavaScript, SQL y control de versiones con Git.
+Interesado en la optimización de procesos y el
+desarrollo de soluciones eficientes y de
+calidad, con habilidades de pensamiento
+analítico, organización y trabajo en equipo,
+caracterizado por ser responsable, constante y
+orientado a la mejora continua.
 
 ---
 
-### ⚙️ Stack Tecnológico
+### Stack Tecnológico
 
-#### 🧠 Lenguajes y frameworks
+####  Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,spring,fastapi,hibernate,maven,kafka,htmx,html,css,js,bootstrap,bots" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,maven,kafka" />
 </p>
 
-#### 🗄️ Bases de datos
+####  Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,htmx,html,css,js,bootstrap" />
 </p>
 
-#### ☁️ DevOps, Testing y Documentación
+#### Bases de datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,hibernate" />
+</p>
+
+#### DevOps, Testing y Documentación
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,githubactions,postman,docker" />
 </p>
 
-### 🧰 Entornos de desarrollo (IDEs)
+#### Entornos de desarrollo (IDEs)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,visualstudio,arduino,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino" />
 </p>
-
-> 💻 Trabajo habitualmente con **Visual Studio Code** y **Eclipse**.  
-> También experimento con **Visual Studio** para C# y **Arduino IDE / Thonny** en proyectos IoT.
 
 ---
 
-### 🚀 Tecnologías que estoy aprendiendo
+### Tecnologías que estoy aprendiendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,godot,docker,linux,ai,aiscript,tensorflow,flutter,raspberrypi,figma,kali,robloxstudio,unity" />
+  <img src="https://skillicons.dev/icons?i=mongodb,godot,docker,linux,tensorflow,flutter,raspberrypi,figma,kali" />
 </p>
-
-> 🌱 Actualmente explorando **IA Generativa**, **Ciberseguridad**, **Docker**, **Linux**,  
-> y **Godot Engine (C#)** para desarrollo de videojuegos.  
-
-> 🧠 Próximos objetivos: **react**, **microservicios**, **kali linux** y **automatización con IA.**
 
 ---
 
 #### 🧩 Metodologías y herramientas
-- ⚡ **Scrum / Ágil**  
-- 🧾 **Swagger**, **Postman**, **Jira**  
-- 🧠 **Lucidchart** para diagramación UML  
-- 💻 **Thonny (IoT, MicroPython)**, **Cisco Packet Tracer**  
+-  **Scrum / Ágil**  
+-  **Swagger**, **Postman**, **Jira**  
+-  **Lucidchart** para diagramación UML  
+-  **Thonny (IoT, MicroPython)**, **Cisco Packet Tracer**  
 
 ---
 
 ### 🚀 Proyectos destacados
 
-#### 🧭 [Explora UAV](https://github.com/No-Johann/ExploraUAV)
+####  [Explora UAV](https://explorauav.com.co/)
 Página web profesional para empresa de cartografía aérea.  
-🔹 Desarrollo web y backend orientado a servicios geoespaciales.
+Desarrollo web orientado a servicios geoespaciales.
 
-#### 🚲 [Bike-Ride IoT](https://github.com/No-Johann/Bike-Ride)
-Sistema inteligente de alquiler de bicicletas.  
-🔹 Integración IoT, diseño de base de datos y programa de fidelización.
-
-#### 🎮 [ELECTROSWING](https://github.com/No-Johann/ELECTROSWING)
-Videojuego **pixel-art 32x32** con estética swing electrónica.  
-🔹 Creación musical y desarrollo con Godot (C#).
+####  [QuickCourrier](https://github.com/JohannOrjuela/QuickCourrier)
+Sistema web para la gestión de pedidos, facturación y cálculo de envíos, aplicando arquitectura limpia, seguridad JWT y buenas prácticas profesionales. (patrones de diseño)
 
 ---
 
@@ -85,9 +81,12 @@ Videojuego **pixel-art 32x32** con estética swing electrónica.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannOrjuela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  </p>
+  
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannOrjuela&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+  </p>
+  
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JohannOrjuela&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -97,18 +96,9 @@ Videojuego **pixel-art 32x32** con estética swing electrónica.
 ### 📫 Conecta conmigo
 
 📧 **Correo:** [jorjuelah@unbosque.edu.co](mailto:jorjuelah@unbosque.edu.co)  
-💼 **LinkedIn:** [Johann Sebastián Orjuela Heredia](https://www.linkedin.com/in/johann-sebastian-orjuela-heredia-34955a1b1)  
-🎧 **Instagram:** [@criscoretime](https://instagram.com/criscoretime)  
-🌐 **Portafolio:** [explorauav.com.co/portafolio-johann](https://explorauav.com.co/portafolio-johann/) *(en construcción)*  
-
----
-
-
-### 🧬 Fun Facts
-
-- 🎸 Toco bajo eléctrico y produzco música (¡sí, también tengo ritmo en el código!).  
-- ☕ El café y los diagramas UML son mi lenguaje universal.  
-- 🧠 Mi filosofía: *“Cada bug es una oportunidad para aprender algo nuevo.”*
+💼 **LinkedIn:** [Johann Sebastián Orjuela Heredia](https://www.linkedin.com/in/johann-sebasti%C3%A1n-orjuela-heredia-b0bb5a3b5/)  
+📷 **Instagram:** [@criscoretime](https://instagram.com/criscoretime)  
+🌐 **Portafolio:** [explorauav.com.co/portafolio-johann](https://explorauav.com.co/portafolio-johann/)
 
 ---
 
@@ -117,7 +107,3 @@ Videojuego **pixel-art 32x32** con estética swing electrónica.
 </p>
 
 ---
-
-<p align="center">✨ Generado con la ayuda de Inteligencia Artificial (ChatGPT - GPT-5) 🤖✨</p>
-
-<p align="center">Gracias por visitar mi perfil 💻</p>
