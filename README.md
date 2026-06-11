@@ -71,7 +71,6 @@ orientado a la mejora continua.
 
 ####  [Explora UAV](https://explorauav.com.co/)
 Página web profesional para empresa de cartografía aérea.  
-Desarrollo web orientado a servicios geoespaciales.
 
 ####  [QuickCourrier](https://github.com/JohannOrjuela/QuickCourrier)
 Sistema web para la gestión de pedidos, facturación y cálculo de envíos, aplicando arquitectura limpia, seguridad JWT y buenas prácticas profesionales. (patrones de diseño)
