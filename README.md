@@ -30,7 +30,7 @@ orientado a la mejora continua.
 
 ####  Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,htmx,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vite,htmx,html,css,js,bootstrap" />
 </p>
 
 #### Bases de datos
