@@ -54,7 +54,7 @@ orientado a la mejora continua.
 #### Tecnologías que estoy aprendiendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,godot,docker,linux,tensorflow,flutter,raspberrypi,figma,kali" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb,kubernetes,raspberrypi,linux,kali" />
 </p>
 
 ---
@@ -62,7 +62,8 @@ orientado a la mejora continua.
 ####  Metodologías y herramientas
 -  Scrum / Ágil 
 -  Swagger, Postman, Jira 
--  Lucidchart para diagramación UML  
+-  Lucidchart para diagramación UML
+-  Figma Diseño UX
 -  Thonny (IoT, MicroPython), Cisco Packet Tracer  
 
 ---
